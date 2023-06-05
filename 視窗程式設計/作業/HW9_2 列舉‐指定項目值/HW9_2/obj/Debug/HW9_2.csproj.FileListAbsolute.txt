@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW9_2\HW9_2\bin\Debug\HW9_2.exe.config
+C:\Users\USER\source\repos\HW9_2\HW9_2\bin\Debug\HW9_2.exe
+C:\Users\USER\source\repos\HW9_2\HW9_2\bin\Debug\HW9_2.pdb
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.Form1.resources
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.Properties.Resources.resources
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.exe
+C:\Users\USER\source\repos\HW9_2\HW9_2\obj\Debug\HW9_2.pdb

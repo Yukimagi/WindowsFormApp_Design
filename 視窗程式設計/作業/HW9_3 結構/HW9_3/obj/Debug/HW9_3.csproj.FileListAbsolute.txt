@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW9_3\HW9_3\bin\Debug\HW9_3.exe.config
+C:\Users\USER\source\repos\HW9_3\HW9_3\bin\Debug\HW9_3.exe
+C:\Users\USER\source\repos\HW9_3\HW9_3\bin\Debug\HW9_3.pdb
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.Form1.resources
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.Properties.Resources.resources
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.exe
+C:\Users\USER\source\repos\HW9_3\HW9_3\obj\Debug\HW9_3.pdb

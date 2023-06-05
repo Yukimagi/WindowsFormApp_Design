@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\bin\Debug\HW8_3_2.exe.config
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\bin\Debug\HW8_3_2.exe
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\bin\Debug\HW8_3_2.pdb
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.Form1.resources
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.Properties.Resources.resources
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.exe
+C:\Users\USER\source\repos\HW8_3_2\HW8_3_2\obj\Debug\HW8_3_2.pdb

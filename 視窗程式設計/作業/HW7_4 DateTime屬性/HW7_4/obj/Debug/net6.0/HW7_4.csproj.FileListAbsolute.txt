@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HW7_4\HW7_4\bin\Debug\net6.0\HW7_4.exe
+C:\Users\USER\source\repos\HW7_4\HW7_4\bin\Debug\net6.0\HW7_4.deps.json
+C:\Users\USER\source\repos\HW7_4\HW7_4\bin\Debug\net6.0\HW7_4.runtimeconfig.json
+C:\Users\USER\source\repos\HW7_4\HW7_4\bin\Debug\net6.0\HW7_4.dll
+C:\Users\USER\source\repos\HW7_4\HW7_4\bin\Debug\net6.0\HW7_4.pdb
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.AssemblyInfo.cs
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.dll
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\refint\HW7_4.dll
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.pdb
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\HW7_4.genruntimeconfig.cache
+C:\Users\USER\source\repos\HW7_4\HW7_4\obj\Debug\net6.0\ref\HW7_4.dll

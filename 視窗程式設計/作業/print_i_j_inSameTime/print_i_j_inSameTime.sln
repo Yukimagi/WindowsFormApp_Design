@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print_i_j_inSameTime", "print_i_j_inSameTime\print_i_j_inSameTime.csproj", "{EEEFB503-6054-4820-A15E-328A013A5070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEFB503-6054-4820-A15E-328A013A5070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEFB503-6054-4820-A15E-328A013A5070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEFB503-6054-4820-A15E-328A013A5070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEFB503-6054-4820-A15E-328A013A5070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCBAC4D-125E-4F5E-A6EA-363085760B82}
+	EndGlobalSection
+EndGlobal

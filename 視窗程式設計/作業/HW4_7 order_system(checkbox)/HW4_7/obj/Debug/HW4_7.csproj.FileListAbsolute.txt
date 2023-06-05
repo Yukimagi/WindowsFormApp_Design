@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW4_7\HW4_7\bin\Debug\HW4_7.exe.config
+C:\Users\USER\source\repos\HW4_7\HW4_7\bin\Debug\HW4_7.exe
+C:\Users\USER\source\repos\HW4_7\HW4_7\bin\Debug\HW4_7.pdb
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.Form1.resources
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.Properties.Resources.resources
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.exe
+C:\Users\USER\source\repos\HW4_7\HW4_7\obj\Debug\HW4_7.pdb

@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW12_1\HW12_1\bin\Debug\HW12_1.exe.config
+C:\Users\USER\source\repos\HW12_1\HW12_1\bin\Debug\HW12_1.exe
+C:\Users\USER\source\repos\HW12_1\HW12_1\bin\Debug\HW12_1.pdb
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.Form1.resources
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.Properties.Resources.resources
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.exe
+C:\Users\USER\source\repos\HW12_1\HW12_1\obj\Debug\HW12_1.pdb

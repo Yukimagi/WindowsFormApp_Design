@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW3_7\HW3_7\bin\Debug\HW3_7.exe.config
+C:\Users\USER\source\repos\HW3_7\HW3_7\bin\Debug\HW3_7.exe
+C:\Users\USER\source\repos\HW3_7\HW3_7\bin\Debug\HW3_7.pdb
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.Form1.resources
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.Properties.Resources.resources
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.exe
+C:\Users\USER\source\repos\HW3_7\HW3_7\obj\Debug\HW3_7.pdb

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\EX14_1\EX14_1\bin\Debug\EX14_1.exe.config
+C:\Users\USER\source\repos\EX14_1\EX14_1\bin\Debug\EX14_1.exe
+C:\Users\USER\source\repos\EX14_1\EX14_1\bin\Debug\EX14_1.pdb
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.Form1.resources
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.Properties.Resources.resources
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.exe
+C:\Users\USER\source\repos\EX14_1\EX14_1\obj\Debug\EX14_1.pdb

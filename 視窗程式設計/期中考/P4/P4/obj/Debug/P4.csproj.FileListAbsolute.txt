@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\P4\P4\bin\Debug\P4.exe.config
+C:\Users\USER\source\repos\P4\P4\bin\Debug\P4.exe
+C:\Users\USER\source\repos\P4\P4\bin\Debug\P4.pdb
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.Form1.resources
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.Properties.Resources.resources
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.exe
+C:\Users\USER\source\repos\P4\P4\obj\Debug\P4.pdb

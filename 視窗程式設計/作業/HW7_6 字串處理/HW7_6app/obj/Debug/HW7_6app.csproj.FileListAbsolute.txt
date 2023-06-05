@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\bin\Debug\HW7_6app.exe.config
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\bin\Debug\HW7_6app.exe
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\bin\Debug\HW7_6app.pdb
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.Form1.resources
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.Properties.Resources.resources
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.exe
+C:\Users\USER\source\repos\HW7_6app\HW7_6app\obj\Debug\HW7_6app.pdb

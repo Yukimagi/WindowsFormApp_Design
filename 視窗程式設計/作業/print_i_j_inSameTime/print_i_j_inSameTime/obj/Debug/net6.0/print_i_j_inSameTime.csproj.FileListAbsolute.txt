@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\bin\Debug\net6.0\print_i_j_inSameTime.exe
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\bin\Debug\net6.0\print_i_j_inSameTime.deps.json
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\bin\Debug\net6.0\print_i_j_inSameTime.runtimeconfig.json
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\bin\Debug\net6.0\print_i_j_inSameTime.dll
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\bin\Debug\net6.0\print_i_j_inSameTime.pdb
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.AssemblyInfo.cs
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.dll
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\refint\print_i_j_inSameTime.dll
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.pdb
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\print_i_j_inSameTime.genruntimeconfig.cache
+C:\Users\USER\source\repos\print_i_j_inSameTime\print_i_j_inSameTime\obj\Debug\net6.0\ref\print_i_j_inSameTime.dll

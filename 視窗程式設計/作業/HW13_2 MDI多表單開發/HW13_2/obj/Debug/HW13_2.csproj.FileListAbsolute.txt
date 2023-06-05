@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.Form1.resources
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.Form2.resources
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.Main.resources
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.Properties.Resources.resources
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW13_2\HW13_2\bin\Debug\HW13_2.exe.config
+C:\Users\USER\source\repos\HW13_2\HW13_2\bin\Debug\HW13_2.exe
+C:\Users\USER\source\repos\HW13_2\HW13_2\bin\Debug\HW13_2.pdb
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.exe
+C:\Users\USER\source\repos\HW13_2\HW13_2\obj\Debug\HW13_2.pdb

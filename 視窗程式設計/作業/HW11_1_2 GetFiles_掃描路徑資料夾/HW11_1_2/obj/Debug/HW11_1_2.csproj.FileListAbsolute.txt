@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\bin\Debug\HW11_1_2.exe.config
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\bin\Debug\HW11_1_2.exe
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\bin\Debug\HW11_1_2.pdb
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.Form1.resources
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.Properties.Resources.resources
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.exe
+C:\Users\USER\source\repos\HW11_1_2\HW11_1_2\obj\Debug\HW11_1_2.pdb

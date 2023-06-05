@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\bin\Debug\net6.0\HW2-4-1.exe
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\bin\Debug\net6.0\HW2-4-1.deps.json
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\bin\Debug\net6.0\HW2-4-1.runtimeconfig.json
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\bin\Debug\net6.0\HW2-4-1.dll
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\bin\Debug\net6.0\HW2-4-1.pdb
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.AssemblyInfo.cs
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.dll
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\refint\HW2-4-1.dll
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.pdb
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\HW2-4-1.genruntimeconfig.cache
+C:\Users\USER\source\repos\HW2-4-1\HW2-4-1\obj\Debug\net6.0\ref\HW2-4-1.dll

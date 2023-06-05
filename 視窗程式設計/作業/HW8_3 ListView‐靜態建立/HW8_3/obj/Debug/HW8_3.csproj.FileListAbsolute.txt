@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.Form1.resources
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.Properties.Resources.resources
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\bin\Debug\HW8_3.exe.config
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\bin\Debug\HW8_3.exe
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\bin\Debug\HW8_3.pdb
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.exe
+C:\Users\USER\source\repos\HW8_3 ListView‐靜態建立\HW8_3\obj\Debug\HW8_3.pdb

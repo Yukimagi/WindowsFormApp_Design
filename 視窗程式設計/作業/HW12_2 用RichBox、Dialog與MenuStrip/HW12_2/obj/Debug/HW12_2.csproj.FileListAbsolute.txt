@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\HW12_2\HW12_2\bin\Debug\HW12_2.exe.config
+C:\Users\USER\source\repos\HW12_2\HW12_2\bin\Debug\HW12_2.exe
+C:\Users\USER\source\repos\HW12_2\HW12_2\bin\Debug\HW12_2.pdb
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.Form1.resources
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.Properties.Resources.resources
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.exe
+C:\Users\USER\source\repos\HW12_2\HW12_2\obj\Debug\HW12_2.pdb
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.Form1.resources
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.Properties.Resources.resources
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.exe
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\obj\Debug\HW12_2.pdb
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\bin\Debug\HW12_2.exe.config
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\bin\Debug\HW12_2.exe
+C:\Users\USER\source\repos\視窗程式設計\作業\HW12_2 用RichBox、Dialog與MenuStrip\HW12_2\bin\Debug\HW12_2.pdb

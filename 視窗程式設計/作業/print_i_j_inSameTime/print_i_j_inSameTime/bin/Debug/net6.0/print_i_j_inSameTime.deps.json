@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "print_i_j_inSameTime/1.0.0": {
+        "runtime": {
+          "print_i_j_inSameTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "print_i_j_inSameTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
